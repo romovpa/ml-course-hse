@@ -8,5 +8,6 @@
 - Инструменты
   - [Jupyter Notebook](http://jupyter.org/) 
   - [Pandas](http://pandas.pydata.org/)
+    - [Things in Pandas](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) 
   - [Matplotlib](http://matplotlib.org/)
 
