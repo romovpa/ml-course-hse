@@ -10,7 +10,7 @@
   - [Pandas](http://pandas.pydata.org/)
     - [Things in Pandas](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) 
   - [Matplotlib](http://matplotlib.org/)
- - Задание для самостоятельной работы (по данным из анкеты)
+- Задание для самостоятельной работы (по данным из анкеты)
    - Сколько способов заполнить колонку Группа придумали студенты вашей группы?
    - Какое среднее GPA в вашей группе? Какое стандартное отклонение?
    - Сколько мальчиков и девочек в группе? Как различается среднее GPA между мальчиками и девочками?
